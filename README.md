@@ -18,16 +18,15 @@ Add educational items to a temporary session-based shopping cart.
 
 ## Tech Stack
 ### Frontend
+- Semantic HTML5 & Responsive CSS
 - Handlebars (for category/subcategory templates)
 - React (shopping cart management)
 - Fetch API (HTTP requests)
-- CSS3 (styling)
 
 ### Backend
 - Node.js + Express
 - RESTful API design
 - Session management with UUID
-- Custom DAO pattern for data access
 
 
 ## API Endpoints Used
