@@ -3,17 +3,10 @@ A web-based application for browsing and purchasing educational materials such a
 The project was developed as part of a university assignment.
 
 ## Features
--Category & Subcategory Navigation
-View available categories, subcategories, and related educational materials.
-
-Material Details View
-Display books and lectures with full metadata (title, author, publisher, description, cost, etc.).
-
-User Authentication (Login)
-Users must log in to add items to their cart.
-
-Shopping Cart Management
-Add educational items to a temporary session-based shopping cart.
+- Category & Subcategory Navigation: View available categories, subcategories, and related educational materials.
+- Material Details View: Display books and lectures with full metadata (title, author, publisher, description, cost, etc.).
+- User Authentication (Login): Users must log in to add items to their cart.
+- Shopping Cart Management: Add educational items to a temporary session-based shopping cart.
 
 
 ## Tech Stack
