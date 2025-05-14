@@ -4,6 +4,7 @@ The project was developed as part of a university assignment.
 
 ## Features
 Category & Subcategory Navigation
+
 View available categories, subcategories, and related educational materials.
 
 Material Details View
