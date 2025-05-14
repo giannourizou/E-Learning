@@ -3,8 +3,7 @@ A web-based application for browsing and purchasing educational materials such a
 The project was developed as part of a university assignment.
 
 ## Features
-Category & Subcategory Navigation
-
+-Category & Subcategory Navigation
 View available categories, subcategories, and related educational materials.
 
 Material Details View
